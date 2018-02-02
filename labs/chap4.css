@@ -1,0 +1,15 @@
+.open	{color: green; background-color: #30ff02; text-align: center}
+
+.closed		{color: red; background-color: #f97a7a; text-align: center}
+
+body	{font-family: Arial,Verdana,Garamond; font-size: 20pt}
+
+a		{text-decoration:none; color: black}
+
+table	{width: 65%; margin-left:auto; margin-right:auto; border-color: #545859; border-style: ridge; border-width: 10px;}
+
+th		{color: white; background-color: #757775}
+
+caption			{caption-side: bottom; font-style: italic}
+
+header	{text-align: center;font-size: 30pt; }
